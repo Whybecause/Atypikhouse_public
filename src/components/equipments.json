@@ -1,0 +1,20 @@
+{
+    "inputNumbers": [
+        {
+            "id": 1,
+            "label": "Voyageurs"
+        },
+        {
+            "id": 2,
+            "label": "Chambres"
+        },
+        {
+            "id": 3,
+            "label": "Lits"
+        },
+        {
+            "id": 4,
+            "label": "Salles de bains"
+        }
+    ]
+}

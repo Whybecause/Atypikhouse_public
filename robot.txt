@@ -1,0 +1,4 @@
+User-agent: *
+Allow : /
+
+Sitemap: https://atypikhouse-f2i-devo19-mg-nh-mt.vercel.app/sitemap.txt
